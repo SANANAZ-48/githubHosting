@@ -28,7 +28,7 @@
     
         <ul> 
             <li>Web Management</li>
-            <li>Proficient In MS Office(Word, Excel, PowerPoint)</li>
+            <li>Proficient In MS Office( Excel, PowerPoint)</li>
             <li>Fluent in English, Spanish and Urdu</li>
         </ul>
         	
